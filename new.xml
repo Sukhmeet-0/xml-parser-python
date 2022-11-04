@@ -1,0 +1,20 @@
+<metadata>
+<food>
+    <item name="breakfast">Idly</item>
+    <price>$2.5</price>
+    <description updated="yes">Idly sambar description has been added</description>
+    <calories>600</calories>
+</food>
+<food>
+    <item name="breakfast">Bisi bel bath</item>
+    <price>$4.50</price>
+    <description updated="yes">Bisi bel bath with sev description has been added</description>
+    <calories>400</calories>
+</food>
+<food>
+    <item name="breakfast">Kesari bath</item>
+    <price>$1.95</price>
+    <description updated="yes">Sweet rava with saffron description has been added</description>
+    <calories>950</calories>
+</food>
+</metadata>
